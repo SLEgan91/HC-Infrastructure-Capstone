@@ -67,12 +67,4 @@ In Sprint 2, the infrastructure was enhanced with secure, identity-based access 
 \- Git \& GitHub
 
 \- Windows Subsystem for Linux (WSL)
-
-## Sprint 2 - Security & Automation
-
-- Implemented OS Login for identity-based access
-- Configured IAP tunneling (no public IP exposure)
-- Built Ansible automation using WSL
-- Verified connectivity with Ansible ping
-- Executed idempotent playbook for system configuration
   
