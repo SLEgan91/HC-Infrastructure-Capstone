@@ -16,3 +16,11 @@ Automated deployment of a secure, 3-tier VPC architecture on Google Cloud Platfo
 
 \- \*\*IaC:\*\* Fully modularized Terraform configuration
 
+## Sprint 2 - Security & Automation
+
+- Implemented OS Login for identity-based access
+- Configured IAP tunneling (no public IP exposure)
+- Built Ansible automation using WSL
+- Verified connectivity with Ansible ping
+- Executed idempotent playbook for system configuration
+  
